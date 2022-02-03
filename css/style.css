@@ -149,6 +149,8 @@ header {
     display: flex;
     justify-content: center;
     position: absolute;
+    max-width: 100%;
+    height: auto;
 }
 
 .background-shadow-upper {
@@ -382,7 +384,7 @@ header {
 
 footer {
     display: flex;
-    margin: 0 120px;
+    margin: 0 10%;
     margin-top: 140px;
     padding: 0 10px 0 10px;
 }
